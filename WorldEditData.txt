@@ -1,57 +1,23 @@
 [TileSets]
 A=WESTRING_LOCALE_ASHENVALE,TerrainArt\Blight\Ashen_Blight
 B=WESTRING_LOCALE_BARRENS,TerrainArt\Blight\Barrens_Blight
-//#LINENOBETA
 K=WESTRING_LOCALE_BLACKCITADEL,TerrainArt\Blight\Citadel_Blight
 Y=WESTRING_LOCALE_CITYSCAPE,TerrainArt\Blight\Village_Blight
 X=WESTRING_LOCALE_DALARAN,TerrainArt\Blight\Village_Blight
-//#LINENOBETA
 J=WESTRING_LOCALE_DALARANRUINS,TerrainArt\Blight\DRuins_Blight
 D=WESTRING_LOCALE_DUNGEON,TerrainArt\Blight\Cave_Blight
 C=WESTRING_LOCALE_FELWOOD,TerrainArt\Blight\Felwood_Blight
-//#LINENOBETA
 I=WESTRING_LOCALE_ICECROWN,TerrainArt\Blight\Ice_Blight
 F=WESTRING_LOCALE_LORDAERON_FALL,TerrainArt\Blight\Lordf_Blight
 L=WESTRING_LOCALE_LORDAERON_SUMMER,TerrainArt\Blight\Lords_Blight
 W=WESTRING_LOCALE_LORDAERON_WINTER,TerrainArt\Blight\Lordw_Blight
 N=WESTRING_LOCALE_NORTHREND,TerrainArt\Blight\North_Blight
-//#LINENOBETA
 O=WESTRING_LOCALE_OUTLAND,TerrainArt\Blight\Outland_Blight
 Z=WESTRING_LOCALE_RUINS,TerrainArt\Blight\Ruins_Blight
 G=WESTRING_LOCALE_DUNGEON2,TerrainArt\Blight\Dungeon_Blight
 V=WESTRING_LOCALE_VILLAGE,TerrainArt\Blight\Village_Blight
 Q=WESTRING_LOCALE_VILLAGEFALL,TerrainArt\Blight\VillageFall_Blight
 
-//***************************************************************//
-// Note do not delete these for the following time.  
-//ASK Dhale if you have question
-//
-//L=WESTRING_LOCALE_LORDAERON_SUMMER,TerrainArt\Blight\Lords_Blight
-//F=WESTRING_LOCALE_LORDAERON_FALL,TerrainArt\Blight\Lordf_Blight
-//W=WESTRING_LOCALE_LORDAERON_WINTER,TerrainArt\Blight\Lordw_Blight
-//B=WESTRING_LOCALE_BARRENS,TerrainArt\Blight\Barrens_Blight
-//A=WESTRING_LOCALE_ASHENVALE,TerrainArt\Blight\Ashen_Blight
-//C=WESTRING_LOCALE_FELWOOD,TerrainArt\Blight\Felwood_Blight
-//N=WESTRING_LOCALE_NORTHREND,TerrainArt\Blight\North_Blight
-//#LINENOBETA
-//I=WESTRING_LOCALE_ICECROWN,TerrainArt\Blight\Ice_Blight
-//Y=WESTRING_LOCALE_CITYSCAPE,TerrainArt\Blight\Village_Blight
-//X=WESTRING_LOCALE_DALARAN,TerrainArt\Blight\Village_Blight
-//#LINENOBETA
-//J=WESTRING_LOCALE_DALARANRUINS,TerrainArt\Blight\DRuins_Blight
-//V=WESTRING_LOCALE_VILLAGE,TerrainArt\Blight\Village_Blight
-//Q=WESTRING_LOCALE_VILLAGEFALL,TerrainArt\Blight\VillageFall_Blight
-//D=WESTRING_LOCALE_DUNGEON,TerrainArt\Blight\Cave_Blight
-//G=WESTRING_LOCALE_DUNGEON2,TerrainArt\Blight\Dungeon_Blight
-//Z=WESTRING_LOCALE_RUINS,TerrainArt\Blight\Ruins_Blight
-//#LINENOBETA
-//O=WESTRING_LOCALE_OUTLAND,TerrainArt\Blight\Outland_Blight
-//#LINENOBETA
-//K=WESTRING_LOCALE_BLACKCITADEL,TerrainArt\Blight\Citadel_Blight
-//***************************************************************//
-
-// Note: If a tileset does not have an entry for a terrain/unit light,
-//       it will use the hard-coded default (Lordaeron)
 [TerrainLights]
 L=Environment\DNC\DNCLordaeron\DNCLordaeronTerrain\DNCLordaeronTerrain.mdl
 F=Environment\DNC\DNCLordaeron\DNCLordaeronTerrain\DNCLordaeronTerrain.mdl
@@ -67,13 +33,9 @@ D=Environment\DNC\DNCDungeon\DNCDungeonTerrain\DNCDungeonTerrain.mdl
 Q=Environment\DNC\DNCLordaeron\DNCLordaeronTerrain\DNCLordaeronTerrain.mdl
 G=Environment\DNC\DNCUnderground\DNCUndergroundTerrain\DNCUndergroundTerrain.mdl
 Z=Environment\DNC\DNCLordaeron\DNCLordaeronTerrain\DNCLordaeronTerrain.mdl
-//#LINENOBETA
 I=Environment\DNC\DNCLordaeron\DNCLordaeronTerrain\DNCLordaeronTerrain.mdl
-//#LINENOBETA
 O=Environment\DNC\DNCLordaeron\DNCLordaeronTerrain\DNCLordaeronTerrain.mdl
-//#LINENOBETA
 K=Environment\DNC\DNCLordaeron\DNCLordaeronTerrain\DNCLordaeronTerrain.mdl
-//#LINENOBETA
 J=Environment\DNC\DNCDalaran\DNCDalaranTerrain\DNCDalaranTerrain.mdl
 
 [UnitLights]
@@ -91,13 +53,9 @@ D=Environment\DNC\DNCDungeon\DNCDungeonUnit\DNCDungeonUnit.mdl
 Q=Environment\DNC\DNCLordaeron\DNCLordaeronUnit\DNCLordaeronUnit.mdl
 G=Environment\DNC\DNCUnderground\DNCUndergroundUnit\DNCUndergroundUnit.mdl
 Z=Environment\DNC\DNCLordaeron\DNCLordaeronUnit\DNCLordaeronUnit.mdl
-//#LINENOBETA
 I=Environment\DNC\DNCLordaeron\DNCLordaeronUnit\DNCLordaeronUnit.mdl
-//#LINENOBETA
 O=Environment\DNC\DNCLordaeron\DNCLordaeronUnit\DNCLordaeronUnit.mdl
-//#LINENOBETA
 K=Environment\DNC\DNCLordaeron\DNCLordaeronUnit\DNCLordaeronUnit.mdl
-//#LINENOBETA
 J=Environment\DNC\DNCDalaran\DNCDalaranUnit\DNCDalaranUnit.mdl
 
 [DoodadCategories]
@@ -127,7 +85,6 @@ B=WESTRING_DTYPE_BRIDGE,ReplaceableTextures\WorldEditUI\Doodad-Bridge
 10=Environment\Sky\LordaeronWinterSkyPurple\LordaeronWinterSkyPurple.mdl,WESTRING_SKYMODEL_SKY11
 11=Environment\Sky\LordaeronWinterSkyRed\LordaeronWinterSkyRed.mdl,WESTRING_SKYMODEL_SKY12
 12=Environment\Sky\LordaeronWinterSkyYellow\LordaeronWinterSkyYellow.mdl,WESTRING_SKYMODEL_SKY13
-//#LINENOBETA
 13=Environment\Sky\Outland_Sky\Outland_Sky.mdl,WESTRING_SKYMODEL_SKY14
 
 [DayAmbience]
@@ -145,13 +102,9 @@ Q=VillageFallDay
 D=DungeonDay
 G=DungeonDay
 Z=SunkenRuinsDay
-//#LINENOBETA
 I=IceCrownDay
-//#LINENOBETA
 O=BlackCitadelDay
-//#LINENOBETA
 K=BlackCitadelDay
-//#LINENOBETA
 J=DalaranRuinsDay
 
 [NightAmbience]
@@ -169,18 +122,12 @@ Q=VillageFallNight
 D=DungeonNight
 G=DungeonNight
 Z=SunkenRuinsNight
-//#LINENOBETA
 I=IceCrownNight
-//#LINENOBETA
 O=BlackCitadelNight
-//#LINENOBETA
 K=BlackCitadelNight
-//#LINENOBETA
 J=DalaranRuinsNight
 
 [SoundEnvironment]
-// Specifies the default sound environment for each tileset
-// Environments are defined in UI\SoundInfo\EnvironmentSounds.slk
 L=Default
 F=Default
 W=Default
@@ -195,17 +142,12 @@ Q=Default
 D=Default
 G=Default
 Z=Default
-//#LINENOBETA
 I=Default
-//#LINENOBETA
 O=Default
-//#LINENOBETA
 K=Default
-//#LINENOBETA
 J=Default
 
 [MusicFiles]
-// File, Game Version (0 is default)
 00=Sound\Music\mp3Music\TragicConfrontation.mp3
 01=Sound\Music\mp3Music\DarkAgents.mp3
 02=Sound\Music\mp3Music\Human3.mp3
@@ -237,34 +179,19 @@ J=Default
 28=Sound\Music\mp3Music\War2IntroMusic.mp3
 29=Sound\Music\mp3Music\Human2.mp3
 30=Sound\Music\mp3Music\Undead3.mp3
-//#LINENOBETA
 31=Sound\Music\mp3Music\NightElfX1.mp3,1
-//#LINENOBETA
 32=Sound\Music\mp3Music\IllidansTheme.mp3,1
-//#LINENOBETA
 33=Sound\Music\mp3Music\ArthasTheme.mp3,1
-//#LINENOBETA
 34=Sound\Music\mp3Music\NagaTheme.mp3,1
-//#LINENOBETA
 35=Sound\Music\mp3Music\PursuitTheme.mp3,1
-//#LINENOBETA
 36=Sound\Music\mp3Music\LichKingTheme.mp3,1
-//#LINENOBETA
 37=Sound\Music\mp3Music\BloodElfTheme.mp3,1
-//#LINENOBETA
 38=Sound\Music\mp3Music\OrcTheme.mp3,1
-//#LINENOBETA
 39=Sound\Music\mp3Music\HumanX1.mp3,1
-//#LINENOBETA
 40=Sound\Music\mp3Music\OrcX1.mp3,1
-//#LINENOBETA
 41=Sound\Music\mp3Music\UndeadX1.mp3,1
-//#LINENOBETA
 42=Sound\Music\mp3Music\War3XMainScreen.mp3,1
 
-// Sound channels available for use in Sound Editor
-// Value 0: 0 or 1 - Can this channel play 3D sounds?
-// Value 1: Display text in editor
 [SoundChannels]
 00=1,WESTRING_SOUNDCHANNEL_GENERAL
 01=1,WESTRING_SOUNDCHANNEL_UNITSELECT
@@ -282,11 +209,6 @@ J=Default
 13=1,WESTRING_SOUNDCHANNEL_BIRTH
 14=1,WESTRING_SOUNDCHANNEL_FIRE
 
-// Loading and Prologue screen info
-// Value 0: Game version in which this loading screen first appeared
-// Value 1: Display text for editor
-// Value 2: Integer indicating which animation sequence to use
-// Value 3: Model file for screen graphics
 [LoadingScreens]
 NumScreens=98
 00=0,WESTRING_LOADINGSCREEN_TUTORIAL01,0,UI\Glues\Loading\Backgrounds\Campaigns\TutorialBackground.mdl
@@ -335,109 +257,57 @@ NumScreens=98
 43=0,WESTRING_LOADINGSCREEN_NIGHTELF08,10,UI\Glues\Loading\Backgrounds\Campaigns\AshenvaleBackground.mdl
 44=0,WESTRING_LOADINGSCREEN_CREDITS,0,UI\Glues\Loading\Backgrounds\Load-Credits\Load-Credits.mdl
 45=0,WESTRING_LOADINGSCREEN_GENERIC,0,UI\Glues\Loading\Load-Generic\Load-Generic.mdl
-//#LINENOBETA
 46=1,WESTRING_LOADINGSCREEN_NIGHTELFX01,0,UI\Glues\Loading\Backgrounds\Campaigns\AshenvaleExpansionBackground.mdl
-//#LINENOBETA
 47=1,WESTRING_LOADINGSCREEN_NIGHTELFX02,0,UI\Glues\Loading\Backgrounds\Campaigns\DrownedRuinsExpansionBackground.mdl
-//#LINENOBETA
 48=1,WESTRING_LOADINGSCREEN_NIGHTELFX03,1,UI\Glues\Loading\Backgrounds\Campaigns\DrownedRuinsExpansionBackground.mdl
-//#LINENOBETA
 49=1,WESTRING_LOADINGSCREEN_NIGHTELFX04,2,UI\Glues\Loading\Backgrounds\Campaigns\DrownedRuinsExpansionBackground.mdl
-//#LINENOBETA
 50=1,WESTRING_LOADINGSCREEN_NIGHTELFX04_INTERLUDE,1,UI\Glues\Loading\Backgrounds\Campaigns\AshenvaleExpansionBackground.mdl
-//#LINENOBETA
 51=1,WESTRING_LOADINGSCREEN_NIGHTELFX05,3,UI\Glues\Loading\Backgrounds\Campaigns\DrownedRuinsExpansionBackground.mdl
-//#LINENOBETA
 52=1,WESTRING_LOADINGSCREEN_NIGHTELFX06,0,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 53=1,WESTRING_LOADINGSCREEN_NIGHTELFX06_INTERLUDE,1,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 54=1,WESTRING_LOADINGSCREEN_NIGHTELFX07,2,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 55=1,WESTRING_LOADINGSCREEN_NIGHTELFX08,4,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 56=1,WESTRING_LOADINGSCREEN_NIGHTELFX08_FINALE,5,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 57=1,WESTRING_LOADINGSCREEN_HUMANX01,6,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 58=1,WESTRING_LOADINGSCREEN_HUMANX02,7,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 59=1,WESTRING_LOADINGSCREEN_HUMANX03,9,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 60=1,WESTRING_LOADINGSCREEN_HUMANX03_SECRET,10,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 61=1,WESTRING_LOADINGSCREEN_HUMANX03_INTERLUDE,0,UI\Glues\Loading\Backgrounds\Campaigns\OutlandExpansionBackground.mdl
-//#LINENOBETA
 62=1,WESTRING_LOADINGSCREEN_HUMANX04,1,UI\Glues\Loading\Backgrounds\Campaigns\OutlandExpansionBackground.mdl
-//#LINENOBETA
 63=1,WESTRING_LOADINGSCREEN_HUMANX04_INTERLUDE,2,UI\Glues\Loading\Backgrounds\Campaigns\OutlandExpansionBackground.mdl
-//#LINENOBETA
 64=1,WESTRING_LOADINGSCREEN_HUMANX05,3,UI\Glues\Loading\Backgrounds\Campaigns\OutlandExpansionBackground.mdl
-//#LINENOBETA
 65=1,WESTRING_LOADINGSCREEN_HUMANX06,4,UI\Glues\Loading\Backgrounds\Campaigns\OutlandExpansionBackground.mdl
-//#LINENOBETA
 66=1,WESTRING_LOADINGSCREEN_HUMANX06_FINALE,5,UI\Glues\Loading\Backgrounds\Campaigns\OutlandExpansionBackground.mdl
-//#LINENOBETA
 67=1,WESTRING_LOADINGSCREEN_UNDEADX01,11,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 68=1,WESTRING_LOADINGSCREEN_UNDEADX01_INTERLUDE,12,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 69=1,WESTRING_LOADINGSCREEN_UNDEADX02,13,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 70=1,WESTRING_LOADINGSCREEN_UNDEADX02_INTERLUDE,14,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 71=1,WESTRING_LOADINGSCREEN_UNDEADX03,15,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 72=1,WESTRING_LOADINGSCREEN_UNDEADX04,0,UI\Glues\Loading\Backgrounds\Campaigns\IcecrownExpansionBackground.mdl
-//#LINENOBETA
 73=1,WESTRING_LOADINGSCREEN_UNDEADX05,16,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 74=1,WESTRING_LOADINGSCREEN_UNDEADX06,17,UI\Glues\Loading\Backgrounds\Campaigns\LordaeronExpansionBackground.mdl
-//#LINENOBETA
 75=1,WESTRING_LOADINGSCREEN_UNDEADX07A,1,UI\Glues\Loading\Backgrounds\Campaigns\IcecrownExpansionBackground.mdl
-//#LINENOBETA
 76=1,WESTRING_LOADINGSCREEN_UNDEADX07B,2,UI\Glues\Loading\Backgrounds\Campaigns\IcecrownExpansionBackground.mdl
-//#LINENOBETA
 77=1,WESTRING_LOADINGSCREEN_UNDEADX07C,3,UI\Glues\Loading\Backgrounds\Campaigns\IcecrownExpansionBackground.mdl
-//#LINENOBETA
 78=1,WESTRING_LOADINGSCREEN_UNDEADX07_INTERLUDE,4,UI\Glues\Loading\Backgrounds\Campaigns\IcecrownExpansionBackground.mdl
-//#LINENOBETA
 79=1,WESTRING_LOADINGSCREEN_UNDEADX08,5,UI\Glues\Loading\Backgrounds\Campaigns\IcecrownExpansionBackground.mdl
-//#LINENOBETA
 80=1,WESTRING_LOADINGSCREEN_UNDEADX08_FINALE,5,UI\Glues\Loading\Backgrounds\Campaigns\IcecrownExpansionBackground.mdl
-//#LINENOBETA
 81=1,WESTRING_LOADINGSCREEN_ORCX01_01,0,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionQuest01Background.mdl
-//#LINENOBETA
 82=1,WESTRING_LOADINGSCREEN_ORCX01_02,0,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionBackground.mdl
-//#LINENOBETA
 83=1,WESTRING_LOADINGSCREEN_ORCX01_03,4,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionBackground.mdl
-//#LINENOBETA
 84=1,WESTRING_LOADINGSCREEN_ORCX01_04,3,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionBackground.mdl
-//#LINENOBETA
 85=1,WESTRING_LOADINGSCREEN_ORCX01_05,1,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionBackground.mdl
-//#LINENOBETA
 86=1,WESTRING_LOADINGSCREEN_ORCX02_01,0,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionQuest02Background.mdl
-//#LINENOBETA
 87=1,WESTRING_LOADINGSCREEN_ORCX02_02,5,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionBackground.mdl
-//#LINENOBETA
 88=1,WESTRING_LOADINGSCREEN_ORCX02_03,6,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionBackground.mdl
-//#LINENOBETA
 89=1,WESTRING_LOADINGSCREEN_ORCX02_04,8,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionBackground.mdl
-//#LINENOBETA
 90=1,WESTRING_LOADINGSCREEN_ORCX02_05,7,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionBackground.mdl
-//#LINENOBETA
 91=1,WESTRING_LOADINGSCREEN_ORCX02_06,9,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionBackground.mdl
-//#LINENOBETA
 92=1,WESTRING_LOADINGSCREEN_ORCX02_07,10,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionBackground.mdl
-//#LINENOBETA
 93=1,WESTRING_LOADINGSCREEN_ORCX02_08,11,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionBackground.mdl
-//#LINENOBETA
 94=1,WESTRING_LOADINGSCREEN_ORCX02_09,12,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionBackground.mdl
-//#LINENOBETA
 95=1,WESTRING_LOADINGSCREEN_ORCX02_10,13,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionBackground.mdl
-//#LINENOBETA
 96=1,WESTRING_LOADINGSCREEN_ORCX03A,14,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionBackground.mdl
-//#LINENOBETA
 97=1,WESTRING_LOADINGSCREEN_ORCX03B,15,UI\Glues\Loading\Backgrounds\Campaigns\BarrensExpansionBackground.mdl
 
 [PrologueScreens]
@@ -454,20 +324,12 @@ NumScreens=12
 05=0,WESTRING_CAMPAIGNSCREEN_MAINMENU,0,UI\Glues\MainMenu\MainMenu3D\MainMenu3D.mdl
 06=0,WESTRING_CAMPAIGNSCREEN_BATTLENET,0,UI\Glues\BattleNet\BattlenetLoginGlue\BattlenetLoginGlue.mdl
 07=0,WESTRING_CAMPAIGNSCREEN_SCORESCREEN,0,UI\Glues\ScoreScreen\ScoreScreen-Background\ScoreScreen-Background.mdl
-//#LINENOBETA
 08=1,WESTRING_CAMPAIGNSCREEN_NIGHTELFEXPANSION,0,UI\Glues\SinglePlayer\NightElf_Exp\NightElf_Exp.mdl
-//#LINENOBETA
 09=1,WESTRING_CAMPAIGNSCREEN_HUMANEXPANSION,0,UI\Glues\SinglePlayer\Alliance_Exp\Alliance_Exp.mdl
-//#LINENOBETA
 10=1,WESTRING_CAMPAIGNSCREEN_UNDEADEXPANSION,0,UI\Glues\SinglePlayer\Undead3D_Exp\Undead3D_Exp.mdl
-//#LINENOBETA
 11=1,WESTRING_CAMPAIGNSCREEN_ORCEXPANSION,0,UI\Glues\SinglePlayer\Orc_Exp\Orc_Exp.mdl
 
 [CampaignScreenTags]
-// Optional extra entries for each CampaignScreens entry to reference data from
-// the CampaignStrings.txt files
-// Value 0: 0 = CampaignStrings.txt, 1 = CampaignStrings_exp.txt
-// Value 1: section name within the CampaignStrings profile
 00=0,Tutorial
 01=0,Human
 02=0,Orc
@@ -495,8 +357,6 @@ NumSounds=8
 06=1,WESTRING_AMBIENTSOUND_HUMANEXP,ExpansionHumanGlueScreenLoop
 07=1,WESTRING_AMBIENTSOUND_UNDEADEXP,ExpansionUndeadGlueScreenLoop
 
-// Field categories for Object Editor
-// These are referenced from the various meta data SLKs
 [ObjectEditorCategories]
 abil=WESTRING_OE_CAT_ABILITIES
 art=WESTRING_OE_CAT_ART
@@ -510,9 +370,6 @@ stats=WESTRING_OE_CAT_STATS
 tech=WESTRING_OE_CAT_TECHTREE
 text=WESTRING_OE_CAT_TEXT
 
-// Map Sizes - Defines map size categories
-// Value 0: Maximum area, in cells
-// Value 1: Description text
 [MapSizes]
 NumSizes=6
 Size00=7500,WESTRING_MAPSIZE_TINY
@@ -565,7 +422,6 @@ Unnothing=WESTRING_REMOVENOTHINGTILE,ReplaceableTextures\WorldEditUI\BoundaryRem
 0=WESTRING_BRUSH_CIRCLE,ReplaceableTextures\WorldEditUI\TextureBrush03
 1=WESTRING_BRUSH_SQUARE,ReplaceableTextures\WorldEditUI\SquareSizeBrush03
 
-// Circle
 [BrushSizes00]
 0=WESTRING_1,ReplaceableTextures\WorldEditUI\TextureBrush00
 1=WESTRING_2,ReplaceableTextures\WorldEditUI\TextureBrush01
@@ -573,7 +429,6 @@ Unnothing=WESTRING_REMOVENOTHINGTILE,ReplaceableTextures\WorldEditUI\BoundaryRem
 3=WESTRING_5,ReplaceableTextures\WorldEditUI\TextureBrush04
 4=WESTRING_8,ReplaceableTextures\WorldEditUI\TextureBrush07
 
-// Square
 [BrushSizes01]
 0=WESTRING_1,ReplaceableTextures\WorldEditUI\SquareSizeBrush00
 1=WESTRING_2,ReplaceableTextures\WorldEditUI\SquareSizeBrush01
@@ -582,48 +437,26 @@ Unnothing=WESTRING_REMOVENOTHINGTILE,ReplaceableTextures\WorldEditUI\BoundaryRem
 4=WESTRING_8,ReplaceableTextures\WorldEditUI\SquareSizeBrush07
 
 [TerrainCellRarity]
-// Rarity table for the 18 possible terrain cells
-// 
-//  <cell id> = <rarity value>
-//
-// The rarity values are normalized by their sum
-// The id numbers correspond to the texture cells as follows:
-//
-// 0-15: extra variations --> 00 01 02 03
-//                            04 05 06 07
-//                            08 09 10 11
-//                            12 13 14 15
-// 16: original lower right
-// 17: original upper left
-
-// Common
 16=85
 17=85
-
 00=85
 04=85
 08=85
 12=85
-
-// Uncommon
 01=10
 05=10
 09=10
 13=10
-
 02=4
 06=4
 10=4
 14=4
-
-// Rare
 03=1
 07=1
 11=1
 15=1
 
 [DNCSpeeds]
-// Defines speeds for Day/Night cycle modification
 min=0.5
 max=8.0
 
@@ -644,59 +477,32 @@ MaximumMapSize=256
 DefaultDoodadCategory=D
 DefaultTileset=L
 ClickHelperScale=0.4
-
-// Help documentation
 HelpFile_V0=support\Layout\Index2.html
 HelpFile_V0_Mac=ReadMe/Layout/Index2.html
 HelpFile_V1=support\Layout\(PC)WEHIndex.html
 HelpFile_V1_Mac=ReadMe/Layout/(Mac)WEHIndex.html
 HelpFile_CampaignEditor=support\Layout\(PC)WEHIndex.html
 HelpFile_CampaignEditor_Mac=ReadMe/Layout/(Mac)WEHIndex.html
-
-BlizzardLink=http://www.blizzard.com/
-
-// Terrain height smoothing brush weights
-// New terrain height will be computed as:
-//
-//   w1 * oldZ + w2 * avgZ
-//
-// where: oldZ = the original vertex height
-//        avgZ = the average vertex height of all neighboring vertices
-//        w1, w2 are the weights given below for the normal and reverse (shift)
-//        versions of the smoothing brush
-
+BlizzardLink=http:
 SmoothBrushWeightsNormal=0.80,0.20
 SmoothBrushWeightsReverse=1.00,0.05
-
-// Ally priority distances
-//  Represent the factor of the smallest distance
-//
-//  ex: A setting of 0.25 means that all locations within a distance
-//      of 125% of the smallest distance from the location in question will be used
-
 AllyPriorityDist_High=0.25
 AllyPriorityDist_Low=0.50
-
 StartLocPathingTexture=PathTextures\16x16Simple.blp
 RandomBuildingPathingTexture=PathTextures\12x12Simple.blp
-
 RandomUnitCollisionRadius=32
 RandomUnitScale=2.5
 RandomBuildingScale=5.0
 RandomItemScale=1.5
-
 RandomUnitMarkerScale=1.0
 RandomBuildingMarkerScale=2.0
 RandomItemMarkerScale=1.0
-
 DefaultTestAIMap="Maps\(2)PlunderIsle.w3m"
 
 [WorldEditColors]
-// Map size dialog
 MapSizeDlg_NewTerrain=255,0,192,0
 MapSizeDlg_BorderOverlay=128,255,255,255
 MapSizeDlg_CameraBounds=255,0,0,255
-
 CampVertexColor=255,16,16,255
 DropTableIndicatorColor=255,255,255,255
 StartLocGhostColor=64,255,255,255
@@ -704,7 +510,6 @@ SelectedButtonOverlay=96,0,255,0
 ClickHelperColor=96,255,255,255
 
 [WorldEditArt]
-// Models
 StartLocation=Objects\StartLocation\StartLocation.mdl
 InvalidObject=Objects\InvalidObject\InvalidObject.mdl
 InvalidModel=Objects\Invalidmodel\Invalidmodel.mdl
@@ -712,8 +517,6 @@ CameraModel=Objects\CameraHelper\CameraHelper.mdl
 DropTableIndicator=Objects\StartLocation\StartLocation.mdl
 RandomUnitModel=Objects\RandomObject\RandomObject.mdl
 ClickHelper=Objects\InvalidObject\InvalidObject.mdl
-
-// Various palette icons
 StartLocationIcon=ReplaceableTextures\WorldEditUI\StartingLocation.blp
 InvalidIcon=ReplaceableTextures\WorldEditUI\DoodadPlaceholder.blp
 RandomUnitIcon=ReplaceableTextures\WorldEditUI\Editor-Random-Unit.blp
@@ -721,30 +524,20 @@ RandomBuildingIcon=ReplaceableTextures\WorldEditUI\Editor-Random-Building.blp
 RandomItemIcon=ReplaceableTextures\WorldEditUI\Editor-Random-Item.blp
 TexSpaceOne=ReplaceableTextures\WorldEditUI\TextureSpaceOne
 TexSpaceTwo=ReplaceableTextures\WorldEditUI\TextureSpaceTwo
-
-// Brush Tree icons
 BTIcon_Category=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup.blp
 BTIcon_CategoryOpen=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup-Open.blp
-
-// DP = Doodad Palette buttons
 DP_RandomRotation=ReplaceableTextures\WorldEditUI\RandomRotation
 DP_RandomScaleSym=ReplaceableTextures\WorldEditUI\RandomScale-Symmetric
 DP_RandomScaleZ=ReplaceableTextures\WorldEditUI\RandomScale-AsymmetricZ
 DP_RandomScaleXY=ReplaceableTextures\WorldEditUI\RandomScale-AsymmetricXY
-
-// Minimap icons
 MinimapIconGold=UI\MiniMap\MinimapIcon\MinimapIconGold.blp
 MinimapIconNeutralBuilding=UI\MiniMap\MinimapIcon\MinimapIconNeutralBuilding.blp
 MinimapIconStartLoc=UI\MiniMap\MinimapIcon\MinimapIconStartLoc.blp
 MinimapIconCreepCampSmall=UI\Minimap\MinimapIconCreepLoc.blp
 MinimapIconCreepCampLarge=UI\Minimap\MinimapIconCreepLoc2.blp
-
-// Multiple selection icons
 UnitMultipleIcon=ReplaceableTextures\WorldEditUI\Editor-MultipleUnits.blp
 DoodadMultipleIcon=ReplaceableTextures\WorldEditUI\Editor-MultipleDoodads.blp
 RegionIcon=ReplaceableTextures\WorldEditUI\LocationBrush00
-
-// Script editor icons
 SEIcon_TriggerCategory=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup.blp
 SEIcon_TriggerCategoryOpen=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup-Open.blp
 SEIcon_Trigger=ReplaceableTextures\WorldEditUI\Editor-Trigger.blp
@@ -759,43 +552,25 @@ SEIcon_FunctionDisabled=ReplaceableTextures\WorldEditUI\Editor-TriggerFunctionDi
 SEIcon_Event=ReplaceableTextures\WorldEditUI\Editor-TriggerEvent.blp
 SEIcon_Condition=ReplaceableTextures\WorldEditUI\Editor-TriggerCondition.blp
 SEIcon_Action=ReplaceableTextures\WorldEditUI\Editor-TriggerAction.blp
-
-// Unit editor icons
 UEIcon_UnitCategory=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup.blp
 UEIcon_UnitCategoryOpen=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup-Open.blp
-
-// Item editor icons
 IEIcon_ItemCategory=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup.blp
 IEIcon_ItemCategoryOpen=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup-Open.blp
-
-// Destructible editor icons
 BEIcon_DestructableCategory=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup.blp
 BEIcon_DestructableCategoryOpen=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup-Open.blp
-
-// Doodad editor icons
 DEIcon_DoodadCategory=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup.blp
 DEIcon_DoodadCategoryOpen=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup-Open.blp
-
-// Ability editor icons
 AEIcon_AbilityCategory=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup.blp
 AEIcon_AbilityCategoryOpen=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup-Open.blp
-
-// Upgrade editor icons
 GEIcon_UpgradeCategory=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup.blp
 GEIcon_UpgradeCategoryOpen=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup-Open.blp
-
-// Sound Editor icons
 SnEIcon_SoundCategory=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup.blp
 SnEIcon_SoundCategoryOpen=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup-Open.blp
 SnEIcon_SoundFile=ReplaceableTextures\WorldEditUI\SoundEditor-UseSound
 SnEIcon_MusicFile=ReplaceableTextures\WorldEditUI\SoundEditor-UseMusic
-
-// Campaign Editor icons
 CEIcon_Campaign=ReplaceableTextures\WorldEditUI\Editor-Campaign
 CEIcon_Map=ReplaceableTextures\WorldEditUI\CampaignEditor-Map
 CEIcon_MapEx=ReplaceableTextures\WorldEditUI\CampaignEditor-ExpMap
-
-// Object Manager icons
 OMIcon_Folder=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup
 OMIcon_FolderOpen=ReplaceableTextures\WorldEditUI\Editor-TriggerGroup-Open
 OMIcon_Doodad=ReplaceableTextures\WorldEditUI\Actions-Destructibles
@@ -804,8 +579,6 @@ OMIcon_Camera=ReplaceableTextures\WorldEditUI\Actions-Camera
 OMIcon_Sound=ReplaceableTextures\WorldEditUI\SoundEditor-UseSound
 OMIcon_Music=ReplaceableTextures\WorldEditUI\SoundEditor-UseMusic
 OMIcon_Variable=ReplaceableTextures\WorldEditUI\Actions-SetVariables
-
-// Miscellaneous icons
 Icon_Force=ReplaceableTextures\WorldEditUI\Editor-Force.blp
 Icon_ItemSet=ReplaceableTextures\WorldEditUI\Editor-ItemSet.blp
 Icon_ItemTable=ReplaceableTextures\WorldEditUI\Editor-ItemSet.blp
@@ -814,8 +587,6 @@ Icon_AllyPri_Low=ReplaceableTextures\WorldEditUI\Editor-Ally-LowPriority.blp
 Icon_AllyPri_None=ReplaceableTextures\WorldEditUI\Editor-Ally-NoPriority.blp
 GemAct=ReplaceableTextures\WorldEditUI\EditorGemAct.blp
 GemDeact=ReplaceableTextures\WorldEditUI\EditorGemDeact.blp
-
-// Region textures
 Region_Center=ReplaceableTextures\WorldEditUI\Regions\RegionCenter.blp
 Region_HorSide=ReplaceableTextures\WorldEditUI\Regions\RegionTop.blp
 Region_VerSide=ReplaceableTextures\WorldEditUI\Regions\RegionSide.blp
@@ -830,8 +601,6 @@ Region_TwoCorner=ReplaceableTextures\WorldEditUI\Regions\RegionTwoCornerSide.blp
 Region_TwoCorner_Sel=ReplaceableTextures\WorldEditUI\Regions\RegionTwoCornerSelected.blp
 Region_FourCorner=ReplaceableTextures\WorldEditUI\Regions\RegionFourCorner.blp
 Region_FourCorner_Sel=ReplaceableTextures\WorldEditUI\Regions\RegionFourCornerSelected.blp
-
-// Toolbar Icons
 ToolBarIcon_New=ReplaceableTextures\WorldEditUI\Editor-Toolbar-NewMap.blp
 ToolBarIcon_Open=ReplaceableTextures\WorldEditUI\Editor-Toolbar-OpenMap.blp
 ToolBarIcon_Save=ReplaceableTextures\WorldEditUI\Editor-Toolbar-SaveMap.blp
@@ -882,8 +651,6 @@ ToolBarIcon_CE_AddMap=ReplaceableTextures\WorldEditUI\CampaignEditor-AddMap
 ToolBarIcon_CE_RemoveMap=ReplaceableTextures\WorldEditUI\CampaignEditor-RemoveMap
 ToolBarIcon_CE_EditMap=ReplaceableTextures\WorldEditUI\Editor-Toolbar-EditMap
 ToolBarIcon_CE_ExportMap=ReplaceableTextures\WorldEditUI\Editor-Toolbar-ExportMap
-
-// Misc art
 War3Logo=ReplaceableTextures\WorldEditUI\WarcraftIIILogo
 War3XLogo=ReplaceableTextures\WorldEditUI\WarcraftIIIFTLogo
 BlizzardLogo=ReplaceableTextures\WorldEditUI\BlizzardLogo
@@ -899,11 +666,6 @@ CakeEaten=Units\Orc\HeadHunter\HeadHunterYes4.wav
 WelcomeFirstRun=Sound\Interface\GameFound.wav
 WelcomeFirstRunDone=Units\Orc\Peon\PeonReady1.wav
 Welcome=Sound\Ambient\DoodadEffects\UtherReturns.wav
-
-// Extra files for use by custom data
-// Value 0: Game version in which this data was introduced
-// Value 1: File path
-// Value 2: Display text
 
 [ExtraIcons]
 00=1,ReplaceableTextures\CommandButtons\BTNResStone.blp,WESTRING_DEST_RES_STONE
@@ -951,10 +713,7 @@ Welcome=Sound\Ambient\DoodadEffects\UtherReturns.wav
 03=0,Objects\CameraHelper\CameraHelper,WESTRING_MODEL_CAMERA
 04=0,Objects\RandomObject\RandomObject,WESTRING_MODEL_QUESTION
 05=0,Abilities\Spells\Other\TalkToMe\TalkToMe,WESTRING_MODEL_EXCLAMATION
-//#LINENOBETA
 06=1,Units\NightElf\MalFurion\MalFurionNoStag,WESTRING_MODEL_MALFURIONNOSTAG
-//#LINENOBETA
 07=1,Doodads\Cinematic\ArthasIllidanFight\ArthasIllidanFight,WESTRING_MODEL_VICTORYCINEMATICARTHAS
-//#LINENOBETA
 08=1,Doodads\Cinematic\IllidanVictoryCinematic\IllidanVictoryCinematic,WESTRING_MODEL_VICTORYCINEMATICILLIDAN
 09=1,Objects\InventoryItems\Rune\Rune,WESTRING_MODEL_RUNE
