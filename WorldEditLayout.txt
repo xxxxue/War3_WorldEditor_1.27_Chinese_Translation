@@ -30,7 +30,8 @@ Pane_Pos=5,25
 Base_Pos=10,10
 SlotStartY=30
 SlotHeight=22
-SeparationX=5 NumberW=15
+SeparationX=5
+NumberW=15
 NameW=160
 NameH=18
 ColorW=35
@@ -84,7 +85,9 @@ Group_Pos=140,50
 Group_Size=335,230
 GroupLineH=20
 ForceName_Size=95,15
-ForceName_Pos=4,4 CheckX=105 CheckY=3 
+ForceName_Pos=4,4
+CheckX=105
+CheckY=3
 
 [SD_Techtree]
 CustomCheck_Pos=5,8
@@ -132,7 +135,7 @@ RaceMenu_Size=95,18
 Group_Pos=140,30
 Group_Size=335,275
 GroupLineH=24
-LevelIndent=10 
+LevelIndent=10
 Image_Pos=2,4
 Image_Size=16,16
 Name_Pos=20,6
@@ -216,8 +219,12 @@ GameDataSetMenu_Pos=120,202
 GameDataSetMenu_Size=250,20
 
 [MP_Size]
-ImageSize=200 ArrowSize=20 ArrowSpace=5 BorderLabel_Size=60,18
-Center_Pos=180,155 CameraCheck_Pos=10,314
+ImageSize=200
+ArrowSize=20
+ArrowSpace=5
+BorderLabel_Size=60,18
+Center_Pos=180,155
+CameraCheck_Pos=10,314
 MapBoundsCheck_Pos=10,330
 MapSizeLabel_Pos=200,314
 MapSizeLabel_Size=60,16
@@ -533,7 +540,8 @@ RandHeight_Pos=200,206
 
 [ProgressDialog]
 Dlg_Size=394,95
-DlgHWithStop=120 LargeText_Pos=10,10
+DlgHWithStop=120
+LargeText_Pos=10,10
 LargeText_Size=370,25
 SmallText_Pos=10,30
 SmallText_Size=370,16
@@ -585,7 +593,8 @@ ChanceLabel_Pos=5,7
 ChanceLabel_Size=50,16
 ChanceEdit_Pos=55,5
 ChanceEditWidth=25
-ChanceEditYOffset=25 RowBase_Pos=5,5
+ChanceEditYOffset=25
+RowBase_Pos=5,5
 RowH=22
 Label_Pos=0,3
 Label_Size=60,16
@@ -771,7 +780,8 @@ LineText_Size=50,16
 
 [StringDialog]
 Dlg_Size=329,55
-MsgIncrement=18 Msg_Pos=5,5
+MsgIncrement=18
+Msg_Pos=5,5
 Msg_Size=320,16
 Edit_Pos=5,5
 Edit_Size=320,18
@@ -843,11 +853,14 @@ Pal_Size=207,440
 [UnitItemDialog]
 Dlg_Size=254,455
 DlgLarge_Size=414,455
-PalRight=10 PalBottom=66  Pal_Pos=10,10
+PalRight=10
+PalBottom=66
+Pal_Pos=10,10
 PalWithEmpty_Pos=30,32
 PalWithAny_Pos=30,55
 PalWithAnyRG_Pos=30,78
-ChanceYInc=25 ChanceLabel_Pos=10,12
+ChanceYInc=25
+ChanceLabel_Pos=10,12
 ChanceLabel_Size=40,16
 ChanceEdit_Pos=55,10
 ChanceEdit_Size=25
@@ -861,15 +874,18 @@ LevelMenu_Pos=75,30
 LevelMenu_Size=80,20
 ClassMenu_Pos=160,30
 ClassMenu_Size=90,20
-AnyYInc=24 RandGroupRadio_Pos=10,31
+AnyYInc=24
+RandGroupRadio_Pos=10,31
 RandGroupRadio_Size=60,20
 RandGroupMenu_Pos=75,30
 RandGroupMenu_Size=110,20
 RandGroupPosMenu_Pos=190,30
 RandGroupPosMenu_Size=60,20
-RandGroupYInc=24 ItemRadio_Pos=10,32
+RandGroupYInc=24
+ItemRadio_Pos=10,32
 ItemRadio_Size=60,20
-SpecificMenuX=45    PaletteExtraYInc=22 
+SpecificMenuX=45
+PaletteExtraYInc=22
 
 [UnitItemPalette]
 MenuRowH=25
@@ -1387,7 +1403,9 @@ IDLabel_Pos=10,12
 IDLabel_Size=70,16
 IDBase_Pos=80,8
 IDRowH=22
-IDMenu_Pos=0,0              IDMenu_Size=160,20          OrderLabel_Pos=10,78
+IDMenu_Pos=0,0
+IDMenu_Size=160,20
+OrderLabel_Pos=10,78
 OrderLabel_Size=120,16
 OrderBase_Pos=15,96
 OrderColW=120
@@ -1424,7 +1442,7 @@ SkillMoveDown_Size=92,18
 
 [AIPriorityList]
 ButtonH=20
-ButtonGap=4 
+ButtonGap=4
 NameColW=100
 QuantityColW=40
 SupplyColW=50
@@ -1638,7 +1656,8 @@ CondText_Size=240,50
 [MiscDataDialog]
 Dlg_Size=400,300
 UseCustomCheck_Pos=5,5
-RawDataCheck_Pos=5,20 Border=5
+RawDataCheck_Pos=5,20
+Border=5
 ValueListY=25
 ButtonH=20
 BottomH=65
@@ -1774,7 +1793,8 @@ Pane_Pos=42,42
 Base_Pos=10,10
 SlotStartY=30
 SlotHeight=27
-SeparationX=12 NumberW=15
+SeparationX=12
+NumberW=15
 NameW=160
 NameH=21
 ColorW=35
@@ -1828,7 +1848,9 @@ Group_Pos=170,60
 Group_Size=375,255
 GroupLineH=25
 ForceName_Size=95,15
-ForceName_Pos=4,4 CheckX=145 CheckY=3 
+ForceName_Pos=4,4
+CheckX=145
+CheckY=3
 
 [SD_TechtreeMac]
 CustomCheck_Pos=5,10
@@ -1876,7 +1898,7 @@ RaceMenu_Size=110,18
 Group_Pos=145,55
 Group_Size=405,300
 GroupLineH=24
-LevelIndent=5 
+LevelIndent=5
 Image_Pos=2,4
 Image_Size=16,16
 Name_Pos=20,6
@@ -1960,8 +1982,12 @@ GameDataSetMenu_Pos=200,217
 GameDataSetMenu_Size=250,20
 
 [MP_SizeMac]
-ImageSize=200 ArrowSize=20 ArrowSpace=5 BorderLabel_Size=60,18
-Center_Pos=260,155 CameraCheck_Pos=10,314
+ImageSize=200
+ArrowSize=20
+ArrowSpace=5
+BorderLabel_Size=60,18
+Center_Pos=260,155
+CameraCheck_Pos=10,314
 MapBoundsCheck_Pos=10,334
 MapSizeLabel_Pos=300,314
 MapSizeLabel_Size=70,16
@@ -2242,7 +2268,8 @@ ChanceLabel_Pos=20,14
 ChanceLabel_Size=50,16
 ChanceEdit_Pos=70,11
 ChanceEditWidth=35
-ChanceEditYOffset=31 RowBase_Pos=20,14
+ChanceEditYOffset=31
+RowBase_Pos=20,14
 RowH=24
 Label_Pos=0,3
 Label_Size=70,16
@@ -2413,7 +2440,8 @@ CheckHeight=20
 
 [StringDialogMac]
 Dlg_Size=365,95
-MsgIncrement=18 Msg_Pos=20,14
+MsgIncrement=18
+Msg_Pos=20,14
 Msg_Size=320,16
 Edit_Pos=20,14
 Edit_Size=320,21
@@ -2516,10 +2544,13 @@ Pal_Size=207,440
 [UnitItemDialogMac]
 Dlg_Size=334,530
 DlgLarge_Size=440,530
-PalRight=20 PalBottom=80  Pal_Pos=20,14
+PalRight=20
+PalBottom=80
+Pal_Pos=20,14
 PalWithEmpty_Pos=40,36
 PalWithAny_Pos=40,79
-ChanceYInc=25 ChanceLabel_Pos=20,16
+ChanceYInc=25
+ChanceLabel_Pos=20,16
 ChanceLabel_Size=50,16
 ChanceEdit_Pos=75,14
 ChanceEdit_Size=40
@@ -2535,15 +2566,18 @@ LevelMenu_Pos=90,34
 LevelMenu_Size=95,20
 ClassMenu_Pos=190,34
 ClassMenu_Size=110,20
-AnyYInc=24 RandGroupRadio_Pos=20,38
+AnyYInc=24
+RandGroupRadio_Pos=20,38
 RandGroupRadio_Size=230,20
 RandGroupMenu_Pos=95,34
 RandGroupMenu_Size=90,60
 RandGroupPosMenu_Pos=190,34
 RandGroupPosMenu_Size=110,20
-RandGroupYInc=24 ItemRadio_Pos=20,38
+RandGroupYInc=24
+ItemRadio_Pos=20,38
 ItemRadio_Size=230,20
-SpecificMenuX=60    PaletteExtraYInc=24 
+SpecificMenuX=60
+PaletteExtraYInc=24
 
 [UnitItemPaletteMac]
 MenuRowH=25
@@ -2756,7 +2790,8 @@ ReplaceButton_Size=70,20
 
 [ProgressDialogMac]
 Dlg_Size=400,100
-DlgHWithStop=130 LargeText_Pos=20,14
+DlgHWithStop=130
+LargeText_Pos=20,14
 LargeText_Size=360,20
 SmallText_Pos=20,34
 SmallText_Size=360,16
@@ -2801,7 +2836,8 @@ DoYouAgree_Size=400,16
 [MiscDataDialogMac]
 Dlg_Size=500,375
 UseCustomCheck_Pos=5,5
-RawDataCheck_Pos=5,20 Border=5
+RawDataCheck_Pos=5,20
+Border=5
 ValueListY=25
 ButtonH=20
 BottomH=85
